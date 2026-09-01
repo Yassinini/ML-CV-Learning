@@ -60,4 +60,5 @@ heh.py
 
 # IDE & Editor Settings
 .vscode/
-.idea/
+.idea/*.hdf5
+*.h5
