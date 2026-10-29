@@ -1,0 +1,6 @@
+#!/home/suupatruupa/Documents/hmph/4_ML-CV/1_Computer_Vision/tf-gpu/bin/python3.12
+import sys
+from pip._internal.cli.main import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
